@@ -1,6 +1,6 @@
 const age=23;
-const name='Soham Kashyap'
+const name1='Soham Kashyap'
 
-function getName1(){
-    return name1;
+function sayName(){
+    console.log('My Name is ${name1}')
 }
